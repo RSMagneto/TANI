@@ -7,9 +7,10 @@ author={Diao, Wenxiu and Zhang, Feng and Wang, Haitao and Sun, Jiande and Zhang,
 journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},   
 title={Pansharpening via Triplet Attention Network with Information Interaction},  
 year={2022},  
-volume={},  
+volume={15},  
 number={},  
-pages={1-13},  
+pages={3576-3588},  
 doi={10.1109/JSTARS.2022.3171423}}
+}
     </code>
 </pre>
