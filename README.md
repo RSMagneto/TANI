@@ -10,7 +10,7 @@ year={2022},
 volume={15},  
 number={},  
 pages={3576-3588},  
-doi={10.1109/JSTARS.2022.3171423}}
+doi={10.1109/JSTARS.2022.3171423}
 }
     </code>
 </pre>
